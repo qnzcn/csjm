@@ -4,9 +4,9 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:6.280000,
-llq000.png
+https://cdn.jsdelivr.net/gh/qnzcn/csjm@master/llq000.png
 #EXTINF:3.720000,
-llq001.png
+https://cdn.jsdelivr.net/gh/qnzcn/csjm@master/llq001.png
 #EXTINF:10.040000,
-llq002.png
+https://cdn.jsdelivr.net/gh/qnzcn/csjm@master/llq002.png
 #EXT-X-ENDLIST
